@@ -1,0 +1,19 @@
+{
+  "time_format": "%Y%m%d_%H%M%S",
+  "time_format_match": "%Y%m%d",
+  "file_type": "txt",
+  "pakeage": "com.android.brower",
+  "delay": 200,
+  "times": 1000,
+  "param": "--ignore-crashes --ignore-timeouts --ignore-native-crashes --ignore-security-exceptions --pct-touch 80 --pct-motion 15 --pct-appswitch 5 --pct-rotation 0 -s 12358 -v -v -v --throttle",
+  "logs_path": "E://monkey//logs",
+  "monkey_error_name": "monkey_error",
+  "monkey_log_name": "monkey_log",
+  "from_addr": "xx@163.com",
+  "password": "xxxx",
+  "smtp_server":"smtp.exmail.qq.com",
+  "to_addr": ["xx@163.com","xx@163.com"],
+  "to_user": "xx",
+  "to_addr": "xx@163.com",
+  "msg": "诗和远方"
+}
