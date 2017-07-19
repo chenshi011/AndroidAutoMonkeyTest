@@ -1,0 +1,2 @@
+# AndroidAutoMonkeyTest
+使用Python进行monke自动化测试，并且将产生的error发送到指定的邮箱
